@@ -137,16 +137,6 @@ ping 10.253.1.162
 ### 5) Intrusion Popup Alert (Zenity)
 ![Zenity Alert](screenshots/05-zenity-alert.png.jpeg)
 
-## Presentation (PPT)
-
-Add your hackathon presentation file at project root with this exact name:
-
-- `Hackathonppt.pptx`
-
-Then it will be accessible here:
-
-- [Hackathon Presentation](Hackathonppt.pptx)
-
 ## Troubleshooting
 
 - Wrong interface in Snort command:
